@@ -35,7 +35,7 @@ It is desirable that the official document are substantial, and there is enough 
 
 
 
-## Does it become difficult to handle system operation the system after introducing it?
+## Could it become difficult to handle system operation after introducing that technology?
 
 If you incorporate various technologies, the system operation may became painful. If system operation is troublesome, handover is also hard.
 Could it possible to become a simple? Let's think whether really need to introduce it.
